@@ -2,7 +2,7 @@
 
 This directory contains all the material that we will use during the ThaiPASS school.
 
-*****This is from last year, need to edit when we know what we are doing this year*******
+* ==========This is from last year, need to edit when we know what we are doing this year=============
 
 Each of the first 4 days of the summer school are assigned to a different folder. These are as follows:
 
