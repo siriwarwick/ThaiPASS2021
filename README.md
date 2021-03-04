@@ -21,12 +21,12 @@ Good luck!
 
 
 
-Description of the current folders:
+## Description of the current folders:
 
-## Pre-Tasks
+### Pre-Tasks
 Problems for the mandatory work pre-attendance. 
 
-## Tutorials
+### Tutorials
 Contains the Basic and Advanced python notebooks.
 
 
