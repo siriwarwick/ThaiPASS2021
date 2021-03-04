@@ -3,7 +3,7 @@
 
 ##########################################
 
-All student participants must complete and submit the pre-ThaiPASS exercise before arriving at ThaiPASS.
+All student participants must complete and submit the pre-ThaiPASS exercise before arriving at ThaiPASS. This is located in the 'Pre-Tasks' folder. Instructions on using Git Hub are provided below. 
 
 For students with little or no Python experience, we recommend that you register and work on the basic Python ThaiMOOC by Dr Teeraparb Chantavat.
 
@@ -23,14 +23,15 @@ Good luck!
 
 ## Description of the current folders:
 
-### Pre-Tasks
-Problems for the mandatory work pre-attendance. 
-
 ### Tutorials
 Contains the Basic and Advanced python notebooks.
 
+### Pre-Tasks
+Problems for the mandatory work pre-attendance. 
 
-### First Things First - How to use Git Hub
+
+
+## How to use Git Hub
 
 Using Git Hub is a great tool for professionals who write programs. What makes it so great to use is that if there changes to the docts and pieces of written code, usually to fix problems or 'bugs', they can be uploaded to Git Hub and then everyone that uses the code from that repository can then update their versions quickly and simply 'at the push of a button'.
 
@@ -52,7 +53,7 @@ We will now guide you through downloading (known as "cloning") a repository from
 
 - Please click on "Clone a Repository", you will then be presented with the box with different 'tabs' to choose from, select "URL" (see below). 
 
-- Then copy and past this link, https://github.com/Milne-Centre/ThaiPASS2018.git, into the Repository URL Box. You then may choose the location on where the folders and files from the repository are downloaded/cloned to by clicking on the "Choose..." button.
+- Then copy and past this link, https://github.com/Milne-Centre/ThaiPASS2021.git, into the Repository URL Box. You then may choose the location on where the folders and files from the repository are downloaded/cloned to by clicking on the "Choose..." button.
 
 ![alt text](https://github.com/Milne-Centre/ThaiPASS2018/blob/master/ExampleTwo.png "Screenshot of Clone a Repository Box GUI")
 
@@ -60,19 +61,17 @@ We will now guide you through downloading (known as "cloning") a repository from
 
 #### Updating Repositories using Git Hub
 
-During the week of the summer school, we may add new things to this repository. So, we will need to update what we have already downloaded.
+During the week of the school, we may add new things to this repository. So, we will need to update what we have already downloaded.
 
-- To do this in 'Git Hub Desktop', select "ThaiPASS2018" on the left hand side of the git hub desktop window (see the red arrow in image below), if it is not already selected.
+- To do this in 'Git Hub Desktop', select "ThaiPASS2021" on the left hand side of the git hub desktop window (see the red arrow in image below), if it is not already selected.
 
 ![alt text](https://github.com/Milne-Centre/ThaiPASS2018/blob/master/updateghrepos.png "Screenshot of Updating a Repository with GUI")
 
-- With the "ThaiPASS2018" repository selected within git hub desktop, now click the "Fetch Origin" button (as indicated by the blue arrow).
+- With the "ThaiPASS2021" repository selected within git hub desktop, now click the "Fetch Origin" button (as indicated by the blue arrow).
 
 You now have updated the repository with the latest changes and files.
 
-After you have done these steps, follow the installation instructions and website links/URLs for the key software packages used found in the "Introduction_README.pdf" file in the "StarterPack" folder.
-
-We hope you will enjoy your time preparing for the summer school, and do not forget to contact the ThaiPASS UK team with any questions or problems you may have with the tasks we supply here. E-mail: thaipass@hull.ac.uk 
+We hope you will enjoy your time preparing for the school, and do not forget to contact the ThaiPASS UK team with any questions or problems you may have with the tasks we supply here. E-mail: thaipass@hull.ac.uk 
 
 Regards,
 
